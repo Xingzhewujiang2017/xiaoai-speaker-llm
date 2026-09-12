@@ -1,6 +1,6 @@
 # xiaoai-speaker-llm
 
-将小米小爱音箱（推荐 Pro 型号）接入大模型（DeepSeek / 通义 / 豆包 / 任意 OpenAI 兼容接口），
+Windows创建服务，将小米小爱音箱（推荐 Pro 型号）接入大模型（DeepSeek / 通义 / 豆包 / 任意 OpenAI 兼容接口），
 让语音问答走大模型，并配置 Windows 开机自启（隐藏窗口运行）。
 
 ## 能力
